@@ -21,6 +21,7 @@ O projeto tem como objetivo criar uma aplicação web para gerenciar listas de j
 - **Java**: Linguagem de programação principal.
 - **Maven**: Gerenciamento de dependências e construção do projeto.
 - **Postman**: Fazer requisições para API.
+- **Railway**: Hospedagem na Nuvem.
 - **VSCode**: Editor de código fonte.
 
 ## Requisitos
@@ -57,5 +58,9 @@ O projeto tem como objetivo criar uma aplicação web para gerenciar listas de j
       - No Postman, importe o arquivo, ```DSList.postman_collection.json```, crie uma variável host para poder utilizar.
          - No caso o ```current value``` insira o localhost ou a URL, https://dslist-production-f8d8.up.railway.app
          - Com isso já deve ser possível fazer as requisições, sem problemas.
+
+## 
+
+Link para a API: https://dslist-production-f8d8.up.railway.app/
 
 Criado por [Guilherme Kimura](https://github.com/satoosan)
